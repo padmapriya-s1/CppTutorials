@@ -1,7 +1,6 @@
 # Implementation and Analysis of Sorting Algorithms
 
-
-1.Implement Sorting Algorithms:
+1. Implement Sorting Algorithms:
   Develop implementations for the following sorting algorithms:
   (a) Selection Sort
   (b) Insertion Sort
